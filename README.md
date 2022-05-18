@@ -25,12 +25,14 @@ Take Lectures: Student can take lectures in which he/she is enrolled
 
 
 List of feature mentioned in project proposal
+
 Teacher
-1 Login/Register
-2 Create Course
-3 Upload, Edit, Delete, Update
+1. Login/Register
+2. Create Course
+3. Upload, Edit, Delete, Update
+
 Student 
-1 Login/Register 
-2  Enroll in Course
-3 Take Lectures
+1. Login/Register 
+2.  Enroll in Course
+3. Take Lectures
 
